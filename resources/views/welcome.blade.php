@@ -72,13 +72,13 @@
                     <div class="row-fluid">
                         <div class="col-md-6 col-sm-6 text-left">
                             <p>
-                                <strong><i class="fa fa-phone"></i></strong> +90 543 123 45 67 &nbsp;&nbsp;
-                                <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:#">info@yoursite.com</a>
+                                <strong><i class="fa fa-phone"></i></strong> +62 815 4874 3796 &nbsp;&nbsp;
+                                <strong><i class="fa fa-envelope"></i></strong> <a href="mailto:#">tzyarcon@gmail.com</a>
                             </p>
                         </div><!-- end left -->
                         <div class="col-md-6 col-sm-6 hidden-xs text-right">
                             <div class="social">
-                                <a class="facebook" href="#" data-tooltip="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>              
+                                <a class="facebook" href="https://www.facebook.com/gaming/play?store_visit_source=games_bookmark" data-tooltip="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>              
                                 <a class="twitter" href="#" data-tooltip="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>
                                 <a class="google" href="#" data-tooltip="tooltip" data-placement="bottom" title="Google Plus"><i class="fa fa-google-plus"></i></a>
                                 <a class="linkedin" href="#" data-tooltip="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin"></i></a>
@@ -105,7 +105,7 @@
 
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="home">Home</a></li>
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Mega Menu <b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
@@ -174,12 +174,15 @@
             <div class="overlay"></div>
             <div class="home-text-wrapper relative container">
                 <div class="home-message">
-                    <p>Learning Management System</p>
-                    <small>Edulogy is the ideal choice for your organization, your business and your online education system. Create your online course now with unlimited page templates, color options, and menu features.</small>
+                    <p>Sistem Manajemen Pembelajaran Sekolah</p>
+                    <small>solusi terbaik untuk sekolah Anda, mendukung kegiatan belajar mengajar dengan fitur lengkap. Buat platform pembelajaran online Anda sekarang dengan template halaman yang tak terbatas, opsi warna, dan fitur menu yang fleksibel.</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary wow slideInLeft">Read More</a> &nbsp;&nbsp;&nbsp;<a href="#" class="btn btn-default wow slideInRight">Buy Now</a>
+                            <a href="#" class="btn btn-primary wow slideInLeft">Selengkapnya</a> &nbsp;&nbsp;&nbsp;<a href="#" class="btn btn-default wow slideInRight">Beli Sekarang</a>
                         </div>
+                    </div>
+                </div>
+    
                     </div><!-- end row -->
                 </div>
             </div>
