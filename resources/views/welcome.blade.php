@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
     <!-- Site Meta -->
-    <title>Sekolah</title>
+    <title>Suzuran</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -170,11 +170,11 @@
             </div><!-- end container -->
         </header>
 
-        <section id="home" class="video-section js-height-full">
-            <div class="overlay"></div>
+        <section id="home" class="photo-section js-height-full" style="background-image: url('{{ asset('assets/images/suzuraan.jpg') }}'); background-size: cover; background-position: center;">
+            <div class="overlay"></div>        
             <div class="home-text-wrapper relative container">
                 <div class="home-message">
-                    <p>Sistem Manajemen Pembelajaran Sekolah</p>
+                    <p>Sistem Mencari Orang Terkuat</p>
                     <small>solusi terbaik untuk sekolah Anda, mendukung kegiatan belajar mengajar dengan fitur lengkap. Buat platform pembelajaran online Anda sekarang dengan template halaman yang tak terbatas, opsi warna, dan fitur menu yang fleksibel.</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
