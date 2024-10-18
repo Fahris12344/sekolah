@@ -174,7 +174,7 @@
             <div class="overlay"></div>        
             <div class="home-text-wrapper relative container">
                 <div class="home-message">
-                    <p>Sistem Mencari Orang Terkuat</p>
+                    <p>Sekolah </p>
                     <small>solusi terbaik untuk sekolah Anda, mendukung kegiatan belajar mengajar dengan fitur lengkap. Buat platform pembelajaran online Anda sekarang dengan template halaman yang tak terbatas, opsi warna, dan fitur menu yang fleksibel.</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
