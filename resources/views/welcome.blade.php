@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
     <!-- Site Meta -->
-    <title>Edulogy</title>
+    <title>Sekolah</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -433,7 +433,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message text-center">
-                            <h3>Howdy, we are Edulogy, we have brought together the best quality services, offers, projects for you!</h3>
+                            <h3>Howdy, we are Sekolah, we have brought together the best quality services, offers, projects for you!</h3>
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -447,7 +447,7 @@
                         <div class="box m30">
                             <i class="flaticon-computer-tool-for-education"></i>
                             <h4>Learning system</h4>
-                            <p>All sections required for online training are included to Edulogy.</p>
+                            <p>All sections required for online training are included to Sekolah.</p>
                             <a href="#" class="readmore">Read more</a>
                         </div>
                     </div><!-- end col -->
@@ -500,25 +500,25 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-4">
                         <div class="stat-count">
-                            <h4 class="stat-timer">1230</h4>
-                            <h3><i class="flaticon-black-graduation-cap-tool-of-university-student-for-head"></i> Happy Students</h3>
-                            <p>Quisque porttitor eros quis leo pulvinar, at hendrerit sapien iaculis. </p>
+                            <h4 class="stat-timer">2346</h4>
+                            <h3><i class="flaticon-black-graduation-cap-tool-of-university-student-for-head"></i> Total murid sekolah</h3>
+                            <p>Ini adalah data jumlah murid yang ada di sekolah. </p>
                         </div><!-- stat-count -->
                     </div><!-- end col -->
 
                     <div class="col-lg-4 col-md-4">
                         <div class="stat-count">
                             <h4 class="stat-timer">331</h4>
-                            <h3><i class="flaticon-online-course"></i> Course Done</h3>
-                            <p>Quisque porttitor eros quis leo pulvinar, at hendrerit sapien iaculis. </p>
+                            <h3><i class="flaticon-online-course"></i> Penghargaan sekolah</h3>
+                            <p>Ini adalah jumlah penghargaan yang didapatkan sekolah. </p>
                         </div><!-- stat-count -->
                     </div><!-- end col -->
 
                     <div class="col-lg-4 col-md-4">
                         <div class="stat-count">
-                            <h4 class="stat-timer">8901</h4>
-                            <h3><i class="flaticon-coffee-cup"></i> Ordered Coffe's</h3>
-                            <p>Quisque porttitor eros quis leo pulvinar, at hendrerit sapien iaculis. </p>
+                            <h4 class="stat-timer">120</h4>
+                            <h3><i class="flaticon-black-graduation-cap-tool-of-university-student-for-head"></i> Jumlah guru pengajar di sekolah</h3>
+                            <p>Ini adalah data guru pengajar yang ada di sekolah. </p>
                         </div><!-- stat-count -->
                     </div><!-- end col -->
                 </div><!-- end row -->
